@@ -24,7 +24,7 @@
 	"author": "Team Nintendo",
 	"license": "MIT",
 	"dependencies": {
-		"chart.js": "2.9.3",
+		"chart.js": "2.9.4",
 		"classnames": "2.2.6",
 		"gh-pages": "^2.2.0",
 		"gulp": "4.0.2",
